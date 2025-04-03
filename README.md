@@ -45,6 +45,7 @@ Etapa | Descrição
 📄 requirements.txt → Dependências do projeto
 
 ## 🔗 Link para o Documento do Projeto
+---
 [Documento Oficial](coloque_o_link_aqui)
 
 ## 🛠 Tecnologias que podemos Utilizar
