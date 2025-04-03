@@ -35,17 +35,17 @@ Etapa | Descrição
 
 ## 📂 Estrutura do Repositório
 
-📂 datasets/ → Arquivos de dados utilizados no projeto
-📂 notebooks/ → Scripts e análises exploratórias
-📂 docs/ → Documentação do projeto
-📂 src/ → Código-fonte para processamento dos dados
-📄 README.md → Descrição geral do projeto
-📄 requirements.txt → Dependências do projeto
+-📂 datasets/ → Arquivos de dados utilizados no projeto
+-📂 notebooks/ → Scripts e análises exploratórias
+-📂 docs/ → Documentação do projeto
+-📂 src/ → Código-fonte para processamento dos dados
+-📄 README.md → Descrição geral do projeto
+-📄 requirements.txt → Dependências do projeto
 
 ## 🔗 Link para o Documento do Projeto
 [Documento Oficial](coloque_o_link_aqui)
 
-## 🛠 Tecnologias que devem ser Utilizadas
+## 🛠 Tecnologias que podemos Utilizar
 - R
 - Python
 - Pandas, NumPy, Matplotlib, Seaborn
@@ -59,7 +59,7 @@ Etapa | Descrição
    pip install -r requirements.txt
 
    📊 Fonte dos Dados
-Os dados utilizados neste projeto foram obtidos de [nome da fonte] e estão disponíveis na pasta datasets/.
+Os dados utilizados neste projeto foram obtidos de (https://datasus.saude.gov.br/) e (https://www.ibge.gov.br/), disponíveis na pasta datasets/.
 
 ## 🛤 Roadmap do Projeto
 
