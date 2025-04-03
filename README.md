@@ -5,6 +5,7 @@
 # Análise de Dados em Saúde Materna
 
 ## 📌 Descrição do Projeto
+
 Este projeto busca analisar dados de pré-natal para identificar padrões que correlacionam a falta de assistência materna com o aumento de complicações gestacionais, como doenças durante a gravidez, abortos espontâneos e mortalidade materna, através de técnicas de ciência de dados, nosso objetivo é não apenas evidenciar essas desigualdades regionais, mas também investigar os fatores subjacentes que levam à menor adesão ao pré-natal em determinadas áreas e com base nos padrões encontrados, pretendemos sugerir estratégias para melhorar o acesso e a adesão ao atendimento materno, contribuindo para a redução de riscos e desigualdades na saúde gestacional.
 
 ## **:ledger: Aplicando o Conhecimento**
