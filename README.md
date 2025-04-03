@@ -35,13 +35,12 @@ Etapa | Descrição
 
 ## 📂 Estrutura do Repositório
 ---
-📦 Projeto-PreNatal
-├── 📂 datasets          # Arquivos de dados utilizados no projeto
-├── 📂 notebooks         # Scripts e análises exploratórias
-├── 📂 docs              # Documentação do projeto
-├── 📂 src               # Código-fonte para processamento dos dados
-├── 📜 README.md         # Descrição geral do projeto
-├── 📜 requirements.txt  # Dependências do projeto
+📂 datasets/       → Arquivos de dados utilizados no projeto
+📂 notebooks/      → Scripts e análises exploratórias
+📂 docs/           → Documentação do projeto
+📂 src/            → Código-fonte para processamento dos dados
+📄 README.md       → Descrição geral do projeto
+📄 requirements.txt → Dependências do projeto
 
 ## 🔗 Link para o Documento do Projeto
 ---
