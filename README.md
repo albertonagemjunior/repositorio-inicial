@@ -37,8 +37,8 @@ Etapa | Descrição
 ---
 ├── 📂 datasets/                    #Arquivos de dados utilizados no projeto <br> 
 ├── 📂 notebooks/                   # Scripts e análises exploratórias <br>
-├── 📂 docs/                        # Documentação do projeto <br>
-├── 📂 src/                         # Código-fonte para processamento dos dados <br>
+├── 📂 docs/                      # Documentação do projeto <br>
+├── 📂 src/                        # Código-fonte para processamento dos dados <br>
 ├── 📜 README.md/         # Descrição geral do projeto <br>
 ├── 📜 requirements.txt/  # Dependências do projeto
 
