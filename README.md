@@ -11,9 +11,7 @@ Este projeto busca analisar dados de pré-natal para identificar padrões que co
 ## **:ledger: Aplicando o Conhecimento**
 ---
 A melhor forma de colocar em prática o que está sendo estudado é exercitando!
-
 Isto não é apenas uma simples lista de projetos. Este repositório será uma linha do tempo, uma coleção de eventos que, com o passar do tempo, vão contar a história da contrução de um projeto de Ciência de Dados.
-
 Todo aprendizado durante o curso será testado e implementado aqui pelo nosso grupo.
 
 ## **:label:Sobre o Desenvolvimento**
