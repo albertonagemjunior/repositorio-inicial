@@ -18,6 +18,15 @@ Todo aprendizado durante o curso será testado e implementado aqui pelo nosso gr
 ## **:label:Sobre o Desenvolvimento**
 ---
 
+Este projeto será dividido em etapas:
+
+Etapa | Descrição
+---|---
+1 | Premissas do projeto, objetivos e metas, cronograma da atividade, definição do grupo, pensamento computacional em contextos organizacionais.
+2 | Elaboração da proposta analitica, inicio nas analises exploratórias de dados.
+3 | Apresentar resultados análiticos, Data Storytelling.
+4 | Ajustes finais, elaboração de vídeo de 5 minutos, apresentação dos resultados.
+
 ## 👥 Membros do Grupo
 - ALBERTO NAGEN
 - ANA JULIA DE ALMEIDA SAMPAIO
@@ -36,7 +45,7 @@ Todo aprendizado durante o curso será testado e implementado aqui pelo nosso gr
 ## 🔗 Link para o Documento do Projeto
 [Documento Oficial](coloque_o_link_aqui)
 
-## 🛠 Tecnologias Utilizadas
+## 🛠 Tecnologias que devem ser Utilizadas
 - R
 - Python
 - Pandas, NumPy, Matplotlib, Seaborn
@@ -47,6 +56,51 @@ Todo aprendizado durante o curso será testado e implementado aqui pelo nosso gr
 1. Clone este repositório:  
    ```bash
    git clone https://github.com/seu-usuario/seu-repositorio.git
+   pip install -r requirements.txt
 
    📊 Fonte dos Dados
 Os dados utilizados neste projeto foram obtidos de [nome da fonte] e estão disponíveis na pasta datasets/.
+
+## 🛤 Roadmap do Projeto
+
+Este roadmap apresenta as principais fases do projeto e seus marcos importantes.
+
+### 📌 Etapas do Projeto
+
+1️⃣ **Etapa 1: Definição e Planejamento** 📋 *(Dia 10 de Março a 03 de Abril)*
+   - Definição do problema e objetivos do projeto  
+   - Identificação da organização e área de atuação  
+   - Montagem do grupo e distribuição de responsabilidades  
+   - Elaboração do cronograma de atividades  
+   - Discussão sobre pensamento computacional no contexto organizacional  
+
+2️⃣ **Etapa 2: Análise Explorátoria e Proposta Analítica** 🔍 *(Dia 10 de Março a 3 de Abril)*
+   - Definição da proposta analítica  
+   - Coleta e organização do dataset  
+   - Início das análises exploratórias de dados (EDA)  
+   - Identificação de padrões e tendências iniciais  
+   - Ajustes nos dados para futuras modelagens  
+
+3️⃣ **Etapa 3: Apresentação e Data Storytelling** 📊 *(Dia 04 a 28 de Abril)*
+   - Desenvolvimento dos resultados analíticos  
+   - Aplicação de técnicas de Data Storytelling  
+   - Construção de gráficos e visualizações impactantes  
+   - Elaboração do relatório com insights principais  
+
+4️⃣ **Etapa 4: Finalização e Apresentação** 🎥 *(Dia 29 de Abril a 26 de Maio)*
+   - Ajustes finais e refinamento da análise  
+   - Gravação do vídeo de apresentação (5 minutos)  
+   - Organização da entrega final  
+   - Apresentação dos resultados  
+
+---
+
+🎯 **Milestones Importantes**
+- 📅 **Semana 2** → Definição do projeto, organização do grupo e planejamento concluídos  
+- 📅 **Semana 5** → Proposta analítica definida e análise exploratória iniciada  
+- 📅 **Semana 8** → Relatório e visualizações prontos para apresentação  
+- 📅 **Semana 10** → Entrega final e apresentação do vídeo  
+
+🚀 **Status Atual:** *[Indicar o progresso atual do projeto]*  
+
+---
